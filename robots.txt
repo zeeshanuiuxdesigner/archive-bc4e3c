@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zeeshanuiuxdesigner.github.io/archive-bc4e3c/sitemap.xml
